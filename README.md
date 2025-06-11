@@ -13,7 +13,7 @@ This project focuses on real-time processing of sonar data using a tunnel averag
 
 The image below shows the last 10 detected center points and their trajectory. It also displays statistics such as the total distance covered and the area mapped:
 
-![Tunnel Averaging Visualization](images/tunnel_average_output.png)
+![Tunnel Averaging Visualization](image1.png)
 
 > 📝 *Example visualization of real-time sonar data processing and movement tracking.*
 
